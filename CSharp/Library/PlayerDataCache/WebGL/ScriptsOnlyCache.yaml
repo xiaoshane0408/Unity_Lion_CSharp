@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - Class2_Operator
+    - Practice1_OperatorMethod
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     UnityEditor.TestRunner.dll:
@@ -55,6 +56,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12586}
     - Class: 114
       Script: {instanceID: 12934}
+    - Class: 114
+      Script: {instanceID: 28328}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -510,6 +513,24 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 28354a6e2f612bcb796913fb53afed7d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Class3_Method
+  - hash:
+      serializedVersion: 2
+      Hash: aed2b8aa5ac7989d7f8abe42b4e1d06f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Person
+  - hash:
+      serializedVersion: 2
+      Hash: 68f0aae3a76f5a60fcf652a13cc8bf83
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Practice1_OperatorMethod
   platform: 20
   scenePathNames:
   - "Assets/\u7B2C\u4E8C\u7AE0\uFF1A\u6578\u5B78\u3001\u6BD4\u8F03\u8207\u908F\u8F2F\u904B\u7B97\u5B50.unity"
