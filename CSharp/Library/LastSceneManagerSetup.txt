@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "Assets/\u7B2C\u56DB\u7AE0\uFF1A\u5C6C\u6027\u3001\u9663\u5217\u8207\u5217\u8209.unity"
+- path: Assets/TestLightUp.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
